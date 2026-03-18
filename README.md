@@ -5,7 +5,7 @@
 ### <div align="center">Hi, I'm Prince</div>  
 
 -  Open Source Enthusiast | Aspiring GSoC '26 Contributor  
--  Currently contributing to Zulip and Sugar Labs.  
+-  Currently contributing to Zulip.
 -  Learning advanced Python and JavaScript architectures.  
 -  Actively collaborating with global maintainers to improve educational and communication software.  
 
