@@ -5,7 +5,6 @@
 ### <div align="center">Hi, I'm Prince Verma</div>  
 
 - 🚀 **GSoC '26 Contributor** | Focused on **Tiled Map Editor** & **Zulip**
-- 🛠️ Currently developing a **glTF 2.0 Export Plugin** for Tiled.
 - 🏗️ Mastering **C++, JavaScript architectures**, and **3D Geometry**.
 - 🎓 CS Student at **NIT Kurukshetra**.
 
@@ -26,9 +25,10 @@
 
 ### GSoC & Graphics  
 <div align="center">  
-<a href="https://www.khronos.org/gltf/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/json--v1.png" alt="glTF/JSON" height="50" /><p>glTF 2.0 / JSON</p></a>  
+<a href="https://www.khronos.org/gltf/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/json--v1.png" alt="glTF/JSON" height="50" /></a>  
 <a href="https://www.qt.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/qt-original.svg" alt="Qt Framework" height="50" /></a>  
 <a href="https://www.opengl.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/opengl.png" alt="OpenGL" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/GUI" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/vector.png" alt="Geometry" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -36,8 +36,9 @@
 ### Tools & DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vagrant-original.svg" alt="Vagrant" height="50" /></a>  
+<a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
 </td></tr></table>  
