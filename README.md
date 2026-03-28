@@ -12,7 +12,7 @@
 
 -  Open Source Enthusiast | Aspiring GSoC '26 Contributor
   
--  Mastering C++, JavaScript architectures, and 3D Geometry
+-  Mastering C++ and 3D Geometry.
 
 -  Currently contributing to Zulip.
 
