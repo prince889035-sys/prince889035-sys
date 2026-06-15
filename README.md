@@ -10,7 +10,7 @@
 
 
 
--  Open Source Enthusiast | Aspiring GSoC '26 Contributor
+-  Open Source Enthusiast 
   
 -  Mastering C++ and 3D Geometry.
 
