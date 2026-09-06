@@ -1,41 +1,147 @@
-<h1 align="center">Hi, I'm Prince Verma</h1>
-<p align="center">
-  <strong>CSE Undergraduate at NIT Kurukshetra</strong><br>
-  C++ &amp; DSA · Full-stack Development · Machine Learning
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/prince_verma07/">LeetCode</a> ·
-  <a href="https://www.linkedin.com/in/prince-verma-186476335">LinkedIn</a>
-</p>
-About me
-I'm a third-year B.Tech student in Computer Science and Engineering at the National Institute of Technology, Kurukshetra. My interests span algorithmic problem solving, full-stack web development, and practical machine learning.
-200+ problems solved on LeetCode, with a focus on data structures and algorithms in C++.
-Experience working with frontend interfaces, backend APIs, and database-backed applications.
-Interested in open source and collaborative software development.
-Technical skills
-Area	Technologies and skills
-Languages	C++, Python, JavaScript
-Frontend	HTML5, CSS3, React, Tailwind CSS, Bootstrap
-Backend	Node.js, FastAPI, REST APIs, WebSockets
-Databases	MongoDB, PostgreSQL
-Core skills	Data structures and algorithms, machine learning
-Development tools	Git, GitHub, Linux
-Selected projects
-Chess Master
-A collaborative chess application with a responsive frontend.
-Stack: HTML5, CSS3, JavaScript
-Interactive chessboard with AI and online play screens, match history, and move-by-move replay.
-Frontend move validation, including castling and en passant, with documented API and chess-engine integration contracts.
-Contributed the frontend to the team repository through merged pull request #5.
-Explore the repository · Read the integration guide
-BookFlow
-A full-stack networking prototype connecting textbook publishers and designers.
-Stack: React, Tailwind CSS, Python, FastAPI, MongoDB, WebSockets
-Role-based onboarding, searchable profiles, and a project briefs board.
-JWT authentication, protected routes, and a modular backend.
-WebSocket messaging with read receipts, unread counts, and file attachments.
-Explore the repository
-Connect
-For project collaboration and opportunities:
-LinkedIn: Prince Verma
-LeetCode: prince_verma07
+<div align="center">
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+</div>  
+
+
+
+### <div align="center">Hi, I'm Prince</div>  
+
+
+
+-  Open Source Enthusiast 
+  
+-  Mastering C++ and 3D Geometry.
+
+-  Currently contributing to Zulip.
+
+-  Learning advanced Python and JavaScript architectures.  
+
+-  Actively collaborating with global maintainers to improve educational and communication software.  
+
+
+
+<br/>  
+
+
+
+## My Skill Set  
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+
+<div align="center">  
+
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
+</div>
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+
+<div align="center">  
+
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
+</div>
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps & Tools  
+
+<div align="center">  
+
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
+</div>
+
+
+
+</td></tr></table>  
+
+
+
+<br/>  
+
+
+
+## Connect with me  
+
+<div align="center">
+
+<a href="https://github.com/prince889035-sys" target="_blank">
+
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+
+</a>
+
+<a href="https://linkedin.com/in/prince-verma-186476335" target="_blank">
+
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+
+</a>  
+
+</div>  
+
+
+
+<br/>  
+
+
+
+## Github Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince889035-sys&show_icons=true&count_private=true&theme=react&hide_border=true" align="center" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince889035-sys&layout=compact&theme=react&hide_border=true" align="center" />
+
+</div>  
+
+
+
+<br/>  
+
+
+
+<div align="center">
+
+Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+
+</div>
